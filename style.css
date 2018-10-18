@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.box-1 {
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-City-1080p-Background-HD-PIC-WPB0015832.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: table;
+}
+
+.box-2 {
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://i.pinimg.com/originals/0d/2e/69/0d2e69ab0573df6c841cf641452197b2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: table;
+}
+
+.box-3 {
+    height: 100vh;
+    width: 100%;
+    background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/05/city-wallpaper-16.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: table;
+}
+
+h1 {
+    margin: 0;
+    padding: 8px;
+    font-family: Arial;
+    font-size: 35px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
